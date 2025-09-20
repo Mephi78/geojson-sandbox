@@ -86,7 +86,7 @@ Im Beispiel wird ein "point of interest" in Dresden dargestellt mit den Koordina
 
 Strichbreite, Farbe, Füllung und Transparenz lassen sich über die Eigenschaften eines GeoJSON-Features anpassen.
 
-```geojson
+```
 "properties": {
     "stroke": "#ff3377",
     "stroke-width": 0.5,
