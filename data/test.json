@@ -6,7 +6,9 @@
       "properties": {
         "city": "Dresden",
         "country": "Germany",
-        "poi": "Dresdner Zwinger"
+        "poi": "Dresdner Zwinger",
+        "marker-color": "#ff3377",
+        "marker-size": "medium"
       },
       "geometry": {
         "coordinates": [ 13.7337, 51.0530 ],
@@ -18,7 +20,7 @@
       "properties": {
         "name": "Zwinger-Karree",
         "stroke": "#ff3377",
-        "stroke-width": 0.5,
+        "stroke-width": 5.5,
         "stroke-opacity": 1,
         "fill": "#00cccc",
         "fill-opacity": 0.6

@@ -82,7 +82,7 @@ Im Beispiel wird ein "point of interest" in Dresden dargestellt mit den Koordina
 
 [GitHub erkennt GeoJSON-Daten ![external link][e]][githubmap] in deinem Repository automatisch und stellt sie als interaktive Karte dar. Strichbreite, Farbe, Füllung und Transparenz lassen sich dabei über die Eigenschaften eines GeoJSON-Objektes anpassen.
 
-```
+```geojson
 "properties": {
     "stroke": "#ff3377",
     "stroke-width": 0.5,
