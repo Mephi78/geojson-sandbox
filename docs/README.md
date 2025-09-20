@@ -96,7 +96,7 @@ Strichbreite, Farbe, Füllung und Transparenz lassen sich über die Eigenschafte
 }
 ```
 
-> [!hint] Hinweis  
+> [!IMPORTANT]
 > GitHub ignoriert die Styles leider.  
 > [geojson.io ![external link][e]][geojsonio] hingegen unterstützt auf diese Weise definierte Stile.  
 > Achte darauf, die Stile auf Feature-Ebene zu definieren.  
