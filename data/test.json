@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dresden",
+        "country": "Germany",
+        "poi": "Dresdner Zwinger"
+      },
+      "geometry": {
+        "coordinates": [
+          13.7337,
+          51.0530
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
