@@ -80,7 +80,11 @@ Im Beispiel wird ein "point of interest" in Dresden dargestellt mit den Koordina
 
 ### GeoJSON und GitHub
 
-[GitHub erkennt GeoJSON-Daten ![external link][e]][githubmap] in deinem Repository automatisch und stellt sie als interaktive Karte dar. Strichbreite, Farbe, Füllung und Transparenz lassen sich dabei über die Eigenschaften eines GeoJSON-Objektes anpassen.
+[GitHub erkennt GeoJSON-Daten ![external link][e]][githubmap] in deinem Repository automatisch und stellt sie als interaktive Karte dar.
+
+### Geometrien färben
+
+Strichbreite, Farbe, Füllung und Transparenz lassen sich über die Eigenschaften eines GeoJSON-Features anpassen.
 
 ```geojson
 "properties": {
@@ -91,6 +95,11 @@ Im Beispiel wird ein "point of interest" in Dresden dargestellt mit den Koordina
     "fill-opacity": 0.6
 }
 ```
+
+> [!hint] Hinweis  
+> GitHub ignoriert die Styles leider.  
+> [geojson.io ![external link][e]][geojsonio] hingegen unterstützt auf diese Weise definierte Stile.  
+> Achte darauf, die Stile auf Feature-Ebene zu definieren.  
 
 <p align="right"><a href="#top">top ^</a></p>
 
