@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dresden",
+        "country": "Germany",
+        "poi": "Dresdner Zwinger",
+        "marker-color": "#ff3377",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "coordinates": [ 13.7337, 51.0530 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zwinger-Karree",
+        "stroke": "#ff3377",
+        "stroke-width": 5.5,
+        "stroke-opacity": 1,
+        "fill": "#00cccc",
+        "fill-opacity": 0.6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ 13.730570312087423, 51.05431814526895 ],
+            [ 13.732862764843787, 51.05176054241903 ],
+            [ 13.733189173679591, 51.051679422106986 ],
+            [ 13.73380403683683, 51.051731911736965 ],
+            [ 13.734669399797525, 51.052008674255546 ],
+            [ 13.736043353269764, 51.05314910925392 ],
+            [ 13.733462446194295, 51.055425123597445 ],
+            [ 13.730570312087423, 51.05431814526895 ]
+          ]
+        ]
+
+      }
+    }
+  ]
+}
