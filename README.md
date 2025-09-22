@@ -5,6 +5,9 @@
 <div align="center">
 
 # GeoJSON Sandbox
+
+[Deutsch](docs/README.md)
+
 <!-- Status badges -->
 ![x] ![w] ![l] ![f] ![s]
 
@@ -15,10 +18,8 @@
   <summary>Table of Content</summary>
   <ul style="list-style-type: none;">
     <li><a href="#about">About</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#resources">Resources</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#credits">Credits</a></li>
   </ul>
 </details>
 
@@ -28,21 +29,19 @@ Sandbox for my GeoJSON learning journey.
 
 <p align="right"><a href="#top">top ^</a></p>
 
-## Usage
+## Resources
 
-<p align="right"><a href="#top">top ^</a></p>
-
-## Contributing
+[![as](https://img.shields.io/badge/GeoJSON-orange?logo=awesomelists&labelColor=%230F639C)][awesome]  
+🌍 [geojson.io][geojsonio] (interactive sandbox)  
+📚 [JSON docs][json]  
+📃 [RFC 7946][rfc]  
+:octocat: [GeoJSON & GitHub][githubmap]  
 
 <p align="right"><a href="#top">top ^</a></p>
 
 ## License
 
 This work is released under the [MIT](LICENSE) license.  
-
-<p align="right"><a href="#top">top ^</a></p>
-
-## Credits
 
 <p align="right"><a href="#top">top ^</a></p>
 
@@ -66,5 +65,5 @@ This work is released under the [MIT](LICENSE) license.
 [awesome]: https://github.com/tmcw/awesome-geojson
 [geojsonio]: https://geojson.io
 [githubmap]: https://github.blog/news-insights/the-library/gist-meets-geojson/
-[json]: https://www.json.org/json-de.html
+[json]: https://www.json.org
 [rfc]: https://datatracker.ietf.org/doc/html/rfc7946
